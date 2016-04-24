@@ -1,0 +1,7 @@
+http://java.dzone.com/articles/setting-ssl-tomcat-5-minutes
+
+http://www.mkyong.com/tomcat/how-to-configure-tomcat-to-support-ssl-or-https/
+
+Go to JDK bin folder:
+
+keytool -genkey -alias srini -keyalg RSA -keystore c:\tmp\ksfile
